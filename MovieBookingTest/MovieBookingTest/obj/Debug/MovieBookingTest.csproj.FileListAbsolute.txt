@@ -1,0 +1,6 @@
+c:\users\bapfou\documents\visual studio 2015\Projects\MovieBookingTest\MovieBookingTest\bin\Debug\MovieBookingTest.dll
+c:\users\bapfou\documents\visual studio 2015\Projects\MovieBookingTest\MovieBookingTest\bin\Debug\MovieBookingTest.pdb
+c:\users\bapfou\documents\visual studio 2015\Projects\MovieBookingTest\MovieBookingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bapfou\documents\visual studio 2015\Projects\MovieBookingTest\MovieBookingTest\obj\Debug\MovieBookingTest.csprojResolveAssemblyReference.cache
+c:\users\bapfou\documents\visual studio 2015\Projects\MovieBookingTest\MovieBookingTest\obj\Debug\MovieBookingTest.dll
+c:\users\bapfou\documents\visual studio 2015\Projects\MovieBookingTest\MovieBookingTest\obj\Debug\MovieBookingTest.pdb
